@@ -86,7 +86,7 @@ class login:
 88oooY' 88ooo88 8P      88ooooo 88  88  88  {P2}* Free {RC}For {P2}Everyone {RC}
 88~~~b. 88~~~88 8b      88~~~~~ 88  88  88
 88   8D 88   88 Y8b  d8 88.     88  88  88  {P2}*{K2} Easy To Use {RC}
-Y8888P' YP   YP  `Y88P' Y88888P YP  YP  YP\n""",padding=(0,7),style=f"#AAAAAA"))
+Y8888P' YP   YP  `Y88P' Y88888P YP  YP  YP\n""",padding=(0,7),style=f"#00FFFF"))
     
     def loginEfbi(self):
         self.logoo()
@@ -141,7 +141,7 @@ class MulaiTools:
 88oooY' 88ooo88 8P      88ooooo 88  88  88  {P2}* Free {RC}For {P2}Everyone {RC}
 88~~~b. 88~~~88 8b      88~~~~~ 88  88  88
 88   8D 88   88 Y8b  d8 88.     88  88  88  {P2}*{K2} Easy To Use {RC}
-Y8888P' YP   YP  `Y88P' Y88888P YP  YP  YP\n""",title=f"{P2}halo, {H2}{self.Time()}",subtitle=f"{P2}version {RC}2.0.2",padding=(0,7),style=f"#AAAAAA"))
+Y8888P' YP   YP  `Y88P' Y88888P YP  YP  YP\n""",title=f"{P2}halo, {H2}{self.Time()}",subtitle=f"{P2}version {RC}2.0.2",padding=(0,7),style=f"#00FFFF"))
 
     def logMasuk(self):
         self.logoos()
